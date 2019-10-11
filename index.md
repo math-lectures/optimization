@@ -9,3 +9,4 @@ On Friday at 11:15, room 324 (approximately)
 **Date** | **Theme**
 ---- | -----
 11.10.2019 | Сonvex sets
+18.10.2019 | Сonvex functions
