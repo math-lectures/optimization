@@ -2,11 +2,11 @@
 
 ### Schedule
 
-On Friday at 11:15, room 324 (approximately)
+On Friday at 11:15, room 338
 
 ### Lecture notes ([link](./autumn-2019/notes/main.pdf))
 
 **Date** | **Theme**
 ---- | -----
-11.10.2019 | Сonvex sets
-18.10.2019 | Сonvex functions
+11.10.2019 | Convex sets
+18.10.2019 | Convex functions
