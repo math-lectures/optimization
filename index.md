@@ -2,7 +2,7 @@
 
 ### Schedule
 
-On Friday at 11:15, room 338
+On Friday at 11:15, room 329
 
 ### Lecture notes ([link](./autumn-2019/notes/main.pdf))
 
