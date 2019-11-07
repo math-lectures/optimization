@@ -12,3 +12,4 @@ On Friday at 11:15, room 329
 18.10.2019 | Convex functions
 25.10.2019 | Convex optimization
 01.11.2019 | Linear programming
+08.11.2019 | Free day
