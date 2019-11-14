@@ -4,7 +4,7 @@
 
 On Friday at 11:15, room 329
 
-### Lecture notes ([link](./autumn-2019/notes/main.pdf))
+### Lecture notes ([all in one pdf](./autumn-2019/notes/main.pdf))
 
 **Date** | **Theme**
 ---- | -----
