@@ -8,8 +8,8 @@ On Friday at 11:15, room 329
 
 **Date** | **Theme**
 ---- | -----
-11.10.2019 | Convex sets
-18.10.2019 | Convex functions
-25.10.2019 | Convex optimization
+11.10.2019 | [Convex sets](./autumn-2019/notes/convex_sets.pdf)
+18.10.2019 | [Convex functions](./autumn-2019/notes/convex_functions.pdf)
+25.10.2019 | [Convex optimization](./autumn-2019/notes/convex_optimization.pdf)
 01.11.2019 | Linear programming
 08.11.2019 | Free day
