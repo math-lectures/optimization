@@ -14,4 +14,5 @@ On Friday at 11:15, room 600a
 01.11.2019 | [Linear programming](./autumn-2019/notes/linear_programming.pdf)
 08.11.2019 | Free day
 15.11.2019 | [Duality theory](./autumn-2019/notes/duality_theory.pdf)
-22.11.2019 | Integer linear programming
+22.11.2019 | [Integer linear programming](./autumn-2019/notes/integer_linear_programming.pdf)
+29.11.2019 | Descent method
