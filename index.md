@@ -7,7 +7,7 @@ On Friday at 11:15, room 600a
 ### Lecture notes ([all in one pdf](./autumn-2019/notes/main.pdf))
 
 **Date** | **Theme**
----- | -----
+---- | :-----
 11.10.2019 | [Convex Sets](./autumn-2019/notes/convex_sets.pdf)
 18.10.2019 | [Convex Functions](./autumn-2019/notes/convex_functions.pdf)
 25.10.2019 | [Convex Optimization](./autumn-2019/notes/convex_optimization.pdf)
