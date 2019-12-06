@@ -15,4 +15,5 @@ On Friday at 11:15, room 600a
 08.11.2019 | Free day
 15.11.2019 | [Duality theory](./autumn-2019/notes/duality_theory.pdf)
 22.11.2019 | [Integer linear programming](./autumn-2019/notes/integer_linear_programming.pdf)
-29.11.2019 | Descent method
+29.11.2019 | [Descent method](./autumn-2019/notes/descent_method.pdf)
+06.11.2019 | Gradient projection method
