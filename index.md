@@ -2,7 +2,7 @@
 
 ### Schedule
 
-See you next year
+See you next year!
 
 ### Lecture notes ([all in one pdf](./autumn-2019/notes/main.pdf))
 
