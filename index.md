@@ -24,6 +24,6 @@ See you next year!
  | Multiplicative Weights Update Algorithm
  | Primal-Dual Method
  | Alternating Projections Method
- | Subgradient Descent Method
+ | Subgradient Method
  | Self-concordant Functions
  | Interior-point Method
